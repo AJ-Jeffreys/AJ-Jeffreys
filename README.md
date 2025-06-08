@@ -16,7 +16,7 @@ I'm a security-first network engineer focused on transitioning into **Digital Fo
 
 - <b>Memory Forensics</b>
 
-  <a href="https://github.com/AJ-JEFFREYS/](https://github.com/AJ-Jeffreys/Memory-Forensics)">Slow Computer Forensics</a>
+  <a href="https://github.com/AJ-Jeffreys/Memory-Forensics">Slow Computer Forensics</a>
  
 - <b>PowerShell</b>
 
