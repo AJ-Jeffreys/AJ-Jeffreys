@@ -14,7 +14,8 @@ I'm a security-first network engineer focused on transitioning into **Digital Fo
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Memory Forensics</b>
+- <c href="https://github.com/AJ-JEFFREYS/](https://github.com/AJ-Jeffreys/Memory-Forensics)">Slow Computer Forensics</c>
  
 - <b>PowerShell</b>
 
