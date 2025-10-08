@@ -1,4 +1,4 @@
-<h1>Hi, I'm AJ! <br/><a href="https://github.com/AJ-JEFFREYS">Network Security Engineer</a>, <a href="https://www.linkedin.com/in/ajani-jeffreys/">Aspiring DFIR & SOC Analyst</a>
+<h1>Hi, I'm AJ! <br/><a href="https://github.com/AJ-JEFFREYS">Network Security Engineer</a>, <a href="https://www.linkedin.com/in/ajani-jeffreys/">Aspiring Threat Detection Engineer</a>
 
 ---
 
