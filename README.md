@@ -4,7 +4,7 @@
 
 ### 🛡️ About Me
 
-I'm a security-first network engineer focused on transitioning into **Digital Forensics, Threat Hunting, and SOC Operations**. My daily work includes vulnerability remediation, endpoint detection, and firewall management, but my real passion lies in incident response, memory analysis, and hands-on threat detection.
+I'm a security-first engineer specializing in **Threat Hunting, Digital Forensics, and Threat Detection Engineering**. My daily work includes threat hunting using Microsoft Defender, vulnerability remediation, endpoint detection, and firewall management. My current focus is becoming a Detection Engineer by mid 2026, publishing a full detection pack, complete with metrics, playbooks, and automated testing, while continuing to strengthen my KQL, Python, and detection as code skills.
 
 🔐 **Security+ Certified**  
 🎯 **Fortinet Certified (FCA)**  
