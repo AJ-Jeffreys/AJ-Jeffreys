@@ -8,7 +8,7 @@ I'm a security-first engineer specializing in **Threat Hunting, Digital Forensic
 
 🔐 **Security+ Certified**  
 🎯 **Fortinet Certified (FCA)**  
-🚀 Pursuing **BTL1** with practical labs on LetsDefend, TCM SOC 101, and BTLO
+🚀 Pursuing **Microsft SC-200** with hands on practice using Microsoft Defender, TCM SOC 101, and BTLO
 
 ---
 
