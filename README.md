@@ -14,9 +14,14 @@ I'm a security-first engineer specializing in **Threat Hunting, Digital Forensic
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>Threat Detection Engineering</b>
+
+  <a href="https://github.com/AJ-Jeffreys/Threat-Detection-Hunt-Pack">Threat Detection Hunt Pack</a>
+
 - <b>Memory Forensics</b>
 
   <a href="https://github.com/AJ-Jeffreys/Memory-Forensics">Slow Computer Forensics</a>
+
 
  <!--
 - <b>PowerShell</b>
