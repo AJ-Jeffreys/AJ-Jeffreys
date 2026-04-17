@@ -1,4 +1,4 @@
-<h1>Hi, I'm AJ! <br/><a href="https://github.com/AJ-JEFFREYS">Network Security Engineer</a>, <a href="https://www.linkedin.com/in/ajani-jeffreys/">Specializing in Threat Detection Engineering & DFIR</a>
+<h1>Hi, I'm AJ! <br/><a href="https://github.com/AJ-Jeffreys">Detection Engineer</a>, <a href="https://www.linkedin.com/in/ajani-jeffreys/">Specializing in Threat Detection Engineering & DFIR</a>
 
 ---
 
@@ -8,7 +8,7 @@ I'm a security-first engineer specializing in **Threat Hunting, Digital Forensic
 
 🔐 **Security+ Certified**  
 🎯 **Fortinet Certified (FCA)**  
-🚀 Pursuing **Microsft SC-200** with hands on practice using Microsoft Defender, TCM SOC 101, and BTLO
+🚀 Pursuing **Microsoft SC-200** with hands on practice using Microsoft Defender, TCM SOC 101, and BTLO
 
 ---
 
@@ -16,21 +16,15 @@ I'm a security-first engineer specializing in **Threat Hunting, Digital Forensic
 
 - <b>Threat Detection Engineering</b>
 
-  <a href="https://github.com/AJ-Jeffreys/Threat-Detection-Hunt-Pack">Threat Detection Hunt Pack</a>
+  <a href="https://github.com/AJ-Jeffreys/Threat-Detection-Hunt-Pack">Threat Detection Hunt Pack</a> — 6 KQL detections for Microsoft Defender XDR covering 5 MITRE tactics
+
+- <b>Vulnerability Management Automation</b>
+
+  <a href="https://github.com/AJ-Jeffreys/vuln-copilot">vuln-copilot</a> — Automates Tenable Security Center findings into remediation tickets. Contributed to a 65% reduction in critical CVEs over 6 months.
 
 - <b>Memory Forensics</b>
 
   <a href="https://github.com/AJ-Jeffreys/Memory-Forensics">Slow Computer Forensics</a>
-
-
- <!--
-- <b>PowerShell</b>
-
-- <b>C# (.NET Desktop Applications)</b>
-
-- <b>Python</b>
--->
-
 
 
 
@@ -43,19 +37,3 @@ I'm a security-first engineer specializing in **Threat Hunting, Digital Forensic
 
 
 [linkedin]: https://www.linkedin.com/in/ajani-jeffreys/
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
