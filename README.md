@@ -20,7 +20,7 @@ I'm a security-first engineer specializing in **Threat Hunting, Digital Forensic
 
 - <b>Vulnerability Management Automation</b>
 
-  <a href="https://github.com/AJ-Jeffreys/vuln-copilot">vuln-copilot</a> — Automates Tenable Security Center findings into remediation tickets. Contributed to a 65% reduction in critical CVEs over 6 months.
+  <a href="https://github.com/AJ-Jeffreys/vuln-copilot">vuln-copilot</a> — Automates Tenable Security Center findings into remediation tickets. Contributed to an 85% reduction in critical CVEs across 100+ endpoints.
 
 - <b>Memory Forensics</b>
 
