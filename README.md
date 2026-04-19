@@ -4,7 +4,7 @@
 
 ### 🛡️ About Me
 
-I'm a security-first engineer specializing in **Threat Hunting, Digital Forensics, and Threat Detection Engineering**. My daily work includes threat hunting using Microsoft Defender, vulnerability remediation, endpoint detection, and firewall management. My current focus is becoming a Detection Engineer by mid 2026, publishing a full detection pack, complete with metrics, playbooks, and automated testing, while continuing to strengthen my KQL, Python, and detection as code skills.
+I'm a security first engineer specializing in **Threat Hunting, Digital Forensics, and Threat Detection Engineering**. My daily work includes threat hunting using Microsoft Defender, vulnerability remediation, endpoint detection, and firewall management. My current focus is becoming a Detection Engineer by mid 2026, publishing a full detection pack, complete with metrics, playbooks, and automated testing, while continuing to strengthen my KQL, Python, and detection as code skills.
 
 🔐 **Security+ Certified**  
 🎯 **Fortinet Certified (FCA)**  
@@ -24,7 +24,7 @@ I'm a security-first engineer specializing in **Threat Hunting, Digital Forensic
 
 - <b>Memory Forensics</b>
 
-  <a href="https://github.com/AJ-Jeffreys/Memory-Forensics">Slow Computer Forensics</a>
+  <a href="https://github.com/AJ-Jeffreys/Memory-Forensics">Slow Computer Forensics</a> - Walkthrough investigating a Windows 10 compromise using Volatility 3, demonstrating memory forensics, process injection detection, and MITRE ATT&CK mapping
 
 
 
